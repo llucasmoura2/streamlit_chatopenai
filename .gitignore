@@ -1,0 +1,28 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Variáveis de ambiente
+.env
+
+# Banco de dados local
+estoque.db
+
+# Uploads temporários
+temp_uploads/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configurações do Streamlit
+.streamlit/
+
+# Arquivos e pastas de IDEs
+.vscode/
+.idea/
+
+# Arquivos de log
+*.log
